@@ -1,0 +1,14 @@
+### comandos
+
+- rm =borrar
+- rm-f =forzar el borrado
+- ctrl+c =cancelar operacion
+- ls =muestra la lista de carpetas o archivos en el directorio
+- cd =permite moverce dentro del directorio
+- mkdir = crea carpetas
+- touch = crea archivos
+- cat = ver el contenido de un archivo
+- vim = editor de texto
+- wq = guardar y salir
+- mv = mueve y renombra archivos y carpetas
+
